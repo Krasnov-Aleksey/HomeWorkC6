@@ -1,7 +1,4 @@
-﻿
-
-
-Console.Clear();
+﻿Console.Clear();
 Console.Write ("Введите b1 ");
 double b1=Convert.ToInt32(Console.ReadLine());
 Console.Write ("Введите k1 ");
